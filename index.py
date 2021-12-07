@@ -4,6 +4,9 @@ import math
 import os
 import streamlit as st
 
+df = pd.read_csv('./DLF.BO.csv')
 
+df = df.drop([ 'Symbol', 'Cap', 'Adj Close'], axis=1)
+df.tail()
 
 st.title('Hello, world!')
