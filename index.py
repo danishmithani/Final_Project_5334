@@ -3,7 +3,7 @@ import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import math
 import os
 import streamlit as st
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 df = pd.read_csv('./DLF.BO.csv')
 
@@ -18,7 +18,7 @@ st.subheader('Closing Time VS Time Chart')
 ma100 = df.Close.rolling(100).mean()
 ma200 = df.Close.rolling(200).mean()
 
-import matplotlib.pyplot as plt
+
 
 fig = plt.figure(figsize=(12,6))
 plt.plot(df['Close'])
