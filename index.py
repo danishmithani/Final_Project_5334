@@ -12,3 +12,17 @@ df.tail()
 st.title('Hello, world!')
 user_input = st.text_input('Enter the ticket', 'DLF.BO')
 st.write(df.describe())
+
+st.subheader('Closing Time VS Time Chart')
+ma100 = df.Close.rolling(100).mean()
+ma200 = df.Close.rolling(200).mean()
+
+import matplotlib.pyplot as plt
+
+fig = plt.figure(figsize=(12,6))
+plt.plot(df['Close'])
+plt.xlabel('days')
+plt.ylabel('Share Price - INR')
+plt.plot(ma100, 'r')
+plt.plot(ma200, 'g')
+st.pyplot(fig)
