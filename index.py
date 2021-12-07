@@ -10,5 +10,5 @@ df = df.drop([ 'Symbol', 'Cap', 'Adj Close'], axis=1)
 df.tail()
 
 st.title('Hello, world!')
-user_input = st.test_input('Enter the ticket', 'DLF.BO')
+user_input = st.text_input('Enter the ticket', 'DLF.BO')
 st.write(df.describe())
