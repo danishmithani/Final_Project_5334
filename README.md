@@ -4,6 +4,7 @@ Link to github : https://github.com/danishmithani/Final_Project_5334/
 Link to Proposal : 
 Link to Video : 
 Link to Read More about model creation : 
+Kaggle Notbook : https://www.kaggle.com/danishmithani/finalproject-v3?scriptVersionId=81829950    Using Dummy NIFTY50 data as yaho did not work earlier
 
 The file was hosted on Local Host Anaconda Navigator.
 
