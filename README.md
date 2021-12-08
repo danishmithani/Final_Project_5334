@@ -1,10 +1,10 @@
 # Final_Project_5334
-Due to issues with the website code i have not been able to add files to the official website I have attached all information below instead:
+Due to issues with the website code, i have not been able to add files to the official website I have attached all information below instead:
 Link to github : https://github.com/danishmithani/Final_Project_5334/
 
 Link to Proposal : https://danishmithani.uta.cloud/FinalProjectReport.pdf
 
-Link to Video : 
+Link to Video : https://youtu.be/wDQ4oxTaEoE
 
 Link to Read More about model creation : https://danishmithani.uta.cloud/modelWorking.pdf
 
