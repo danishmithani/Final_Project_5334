@@ -1,10 +1,13 @@
 # Final_Project_5334
-Due to issues withe bebsite code i have not been able to add files to the official website I have attached all information below instead:
+Due to issues with the website code i have not been able to add files to the official website I have attached all information below instead:
 Link to github : https://github.com/danishmithani/Final_Project_5334/
-Link to Proposal : 
+Link to Proposal : https://danishmithani.uta.cloud/FinalProjectReport.pdf
 Link to Video : 
-Link to Read More about model creation : 
+Link to Read More about model creation : https://danishmithani.uta.cloud/modelWorking.pdf
 Kaggle Notbook : https://www.kaggle.com/danishmithani/finalproject-v3?scriptVersionId=81829950    Using Dummy NIFTY50 data as yaho did not work earlier
+
+
+# SETUP 
 
 The file was hosted on Local Host Anaconda Navigator.
 
